@@ -42,23 +42,6 @@ This project contains a simple todo application with the following features:
    - Check the box next to a task to mark it as completed.
    - The task moves to the completed section.
 
-### Screenshots
-
-1. **Sign Up Page**:
-   ![Sign Up Page](path/to/signup.png)
-
-2. **Sign In Page**:
-   ![Sign In Page](path/to/signin.png)
-
-3. **Create Todo**:
-   ![Create Todo](path/to/createtodo.png)
-
-4. **View Todos**:
-   ![View Todos](path/to/viewtodos.png)
-
-5. **Mark as Completed**:
-   ![Mark as Completed](path/to/markcompleted.png)
-
 ### Future Enhancements
 
 - [ ] Implement authentication using OAuth.
@@ -72,7 +55,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/NehaKanabar/Todo_App.git
    ```
 2. Install dependencies:
    ```bash
